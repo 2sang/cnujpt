@@ -1,4 +1,7 @@
 # Create these values: https://github.com/settings/applications/new
 export GITHUB_CLIENT_ID=from_github
 export GITHUB_CLIENT_SECRET=also_from_github
-export OAUTH_CALLBACK_URL=https://[YOURDOMAIN]/hub/oauth_callback
+export OAUTH_CALLBACK_URL=https://cnujpt.xyz/hub/oauth_callback
+
+export GOOGLE_CLIENT_ID=355032534189-5b5u4unbsdsr89541bn4ejkj839kdd0q.apps.googleusercontent.com
+export GOOGLE_CLIENT_SECRET=oEpL5hRQWi0fOzwTwr6shEYi
